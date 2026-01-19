@@ -6,7 +6,7 @@ language: zh-CN
 timezone: Asia/Shanghai
 
 url: https://ZhAQ123.github.io
-root: /
+root: /java-notes/
 permalink: :category/:title/
 
 theme: fluid
