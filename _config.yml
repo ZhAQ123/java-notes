@@ -1,0 +1,18 @@
+title: Violet 的 Java 笔记
+subtitle: LeetCode / 项目 / 八股 / JVM
+description: 记录我的 Java 学习与复盘
+author: Violet
+language: zh-CN
+timezone: Asia/Shanghai
+
+url: https://ZhAQ123.github.io
+root: /
+permalink: :category/:title/
+
+theme: fluid
+
+search:
+  path: search.xml
+  field: post
+  content: true
+  format: html

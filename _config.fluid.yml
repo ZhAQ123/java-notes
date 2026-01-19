@@ -1,0 +1,36 @@
+navbar:
+  blog_title: "Violet Java Notes"
+  menu:
+    - { key: "首页", link: "/" }
+    - { key: "Java路线", link: "/java-roadmap/" }
+    - { key: "LeetCode", link: "/leetcode-index/" }
+    - { key: "项目复盘", link: "/projects-index/" }
+    - { key: "八股速记", link: "/interview-index/" }
+    - { key: "归档", link: "/archives/" }
+    - { key: "分类", link: "/categories/" }
+    - { key: "标签", link: "/tags/" }
+    - { key: "关于", link: "/about/" }
+
+post:
+  toc:
+    enable: true
+    headingSelector: "h1,h2,h3,h4"
+    collapseDepth: 0
+
+search:
+  enable: true
+  path: /search.xml
+
+highlight:
+  enable: true
+
+highlightjs:
+  enable: true
+  style: "github"
+  style_dark: "github-dark"
+
+mermaid:
+  enable: true
+
+katex:
+  enable: true
